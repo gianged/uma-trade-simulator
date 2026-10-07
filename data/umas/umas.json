@@ -1,0 +1,1732 @@
+[
+  {
+    "id": 1,
+    "slug": "specialweek",
+    "name_en": "Special Week",
+    "name_jp": "スペシャルウィーク",
+    "category": "uma",
+    "color": "#EE6DCB",
+    "image": "images/specialweek.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/2e5d34d593f5460caf8045671798d4e4/specialweek_list.png"
+  },
+  {
+    "id": 2,
+    "slug": "silencesuzuka",
+    "name_en": "Silence Suzuka",
+    "name_jp": "サイレンススズカ",
+    "category": "uma",
+    "color": "#29BD70",
+    "image": "images/silencesuzuka.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/3192b6b2ec81493ca2cdb901f31fabab/silencesuzuka_list.png"
+  },
+  {
+    "id": 3,
+    "slug": "tokaiteio",
+    "name_en": "Tokai Teio",
+    "name_jp": "トウカイテイオー",
+    "category": "uma",
+    "color": "#3376D2",
+    "image": "images/tokaiteio.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/cadcd418eba148898a2621f878da87ea/tokaiteio_list.png"
+  },
+  {
+    "id": 4,
+    "slug": "maruzensky",
+    "name_en": "Maruzensky",
+    "name_jp": "マルゼンスキー",
+    "category": "uma",
+    "color": "#EA504A",
+    "image": "images/maruzensky.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/caaeb3fdb43a4056943b2849e43402fb/maruzensky_list.png"
+  },
+  {
+    "id": 5,
+    "slug": "fujikiseki",
+    "name_en": "Fuji Kiseki",
+    "name_jp": "フジキセキ",
+    "category": "uma",
+    "color": "#444745",
+    "image": "images/fujikiseki.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/ce7748228f1944deab2d263f2f527638/fujikiseki_list.png"
+  },
+  {
+    "id": 6,
+    "slug": "oguricap",
+    "name_en": "Oguri Cap",
+    "name_jp": "オグリキャップ",
+    "category": "uma",
+    "color": "#3A7AD2",
+    "image": "images/oguricap.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/0095545db55e4030b50f0e58604e0520/oguricap_list.png"
+  },
+  {
+    "id": 7,
+    "slug": "goldship",
+    "name_en": "Gold Ship",
+    "name_jp": "ゴールドシップ",
+    "category": "uma",
+    "color": "#DA3C57",
+    "image": "images/goldship.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/b6b50669a65f4c3ba0434206532c561d/goldship_list.png"
+  },
+  {
+    "id": 8,
+    "slug": "vodka",
+    "name_en": "Vodka",
+    "name_jp": "ウオッカ",
+    "category": "uma",
+    "color": "#D4C200",
+    "image": "images/vodka.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/8ac7b341d0d94da092a76dbb568581d6/vodka_list.png"
+  },
+  {
+    "id": 9,
+    "slug": "daiwascarlet",
+    "name_en": "Daiwa Scarlet",
+    "name_jp": "ダイワスカーレット",
+    "category": "uma",
+    "color": "#4F64D8",
+    "image": "images/daiwascarlet.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/bc82096dd018407690fcbca17a20ae18/daiwascarlet_list.png"
+  },
+  {
+    "id": 10,
+    "slug": "taikishuttle",
+    "name_en": "Taiki Shuttle",
+    "name_jp": "タイキシャトル",
+    "category": "uma",
+    "color": "#73C032",
+    "image": "images/taikishuttle.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/02bf653dc681485c958cff8768ca5fd5/taikishuttle_list.png"
+  },
+  {
+    "id": 11,
+    "slug": "grasswonder",
+    "name_en": "Grass Wonder",
+    "name_jp": "グラスワンダー",
+    "category": "uma",
+    "color": "#3A34AC",
+    "image": "images/grasswonder.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/aee4caf3e84244a492c21e6e8fe49b6b/grasswonder_list.png"
+  },
+  {
+    "id": 12,
+    "slug": "hishiamazon",
+    "name_en": "Hishi Amazon",
+    "name_jp": "ヒシアマゾン",
+    "category": "uma",
+    "color": "#2185D0",
+    "image": "images/hishiamazon.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/eb835aeb20374658ab98d6fc2b38f538/hishiamazon_list.png"
+  },
+  {
+    "id": 13,
+    "slug": "mejiromcqueen",
+    "name_en": "Mejiro McQueen",
+    "name_jp": "メジロマックイーン",
+    "category": "uma",
+    "color": "#00B5BE",
+    "image": "images/mejiromcqueen.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/b54190968d3644ecb42a708d0f6a084c/mejiromcqueen_list.png"
+  },
+  {
+    "id": 14,
+    "slug": "elcondorpasa",
+    "name_en": "El Condor Pasa",
+    "name_jp": "エルコンドルパサー",
+    "category": "uma",
+    "color": "#DD4E31",
+    "image": "images/elcondorpasa.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/d29681f88e0746508ab45ed552f9ae6e/elcondorpasa_list.png"
+  },
+  {
+    "id": 15,
+    "slug": "tmoperao",
+    "name_en": "T.M. Opera O",
+    "name_jp": "テイエムオペラオー",
+    "category": "uma",
+    "color": "#F271C4",
+    "image": "images/tmoperao.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/64289b3630bf46d3aa4a97039b3923f3/tmoperao_list.png"
+  },
+  {
+    "id": 16,
+    "slug": "naritabrian",
+    "name_en": "Narita Brian",
+    "name_jp": "ナリタブライアン",
+    "category": "uma",
+    "color": "#75358C",
+    "image": "images/naritabrian.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/cdf5701489cb4d3da86b76de708418db/naritabrian_list.png"
+  },
+  {
+    "id": 17,
+    "slug": "symbolirudolf",
+    "name_en": "Symboli Rudolf",
+    "name_jp": "シンボリルドルフ",
+    "category": "uma",
+    "color": "#1C7763",
+    "image": "images/symbolirudolf.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/ff6ad42816db4b82bb7393c7b987f817/symbolirudolf_list.png"
+  },
+  {
+    "id": 18,
+    "slug": "airgroove",
+    "name_en": "Air Groove",
+    "name_jp": "エアグルーヴ",
+    "category": "uma",
+    "color": "#0092CB",
+    "image": "images/airgroove.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/479656c2d22a4ca18480c52185335b15/airgroove_list.png"
+  },
+  {
+    "id": 19,
+    "slug": "agnesdigital",
+    "name_en": "Agnes Digital",
+    "name_jp": "アグネスデジタル",
+    "category": "uma",
+    "color": "#F37F96",
+    "image": "images/agnesdigital.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/6b560061c3234a36be1640bc6c67e00d/agnesdigital_list.png"
+  },
+  {
+    "id": 20,
+    "slug": "seiunsky",
+    "name_en": "Seiun Sky",
+    "name_jp": "セイウンスカイ",
+    "category": "uma",
+    "color": "#65D283",
+    "image": "images/seiunsky.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/97e45e2926de43e79c55295a7378c2d4/seiunsky_list.png"
+  },
+  {
+    "id": 21,
+    "slug": "tamamocross",
+    "name_en": "Tamamo Cross",
+    "name_jp": "タマモクロス",
+    "category": "uma",
+    "color": "#3290D6",
+    "image": "images/tamamocross.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/380fca1269d048abb5a0db0e01cc4ac0/tamamocross_list.png"
+  },
+  {
+    "id": 22,
+    "slug": "finemotion",
+    "name_en": "Fine Motion",
+    "name_jp": "ファインモーション",
+    "category": "uma",
+    "color": "#20A95C",
+    "image": "images/finemotion.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/6bd53dfa4a6a49dc8478e225943ee0e3/finemotion_list.png"
+  },
+  {
+    "id": 23,
+    "slug": "biwahayahide",
+    "name_en": "Biwa Hayahide",
+    "name_jp": "ビワハヤヒデ",
+    "category": "uma",
+    "color": "#B03D81",
+    "image": "images/biwahayahide.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/5a779ba26d434e409062c6ac89e7db2d/biwahayahide_list.png"
+  },
+  {
+    "id": 24,
+    "slug": "mayanotopgun",
+    "name_en": "Mayano Top Gun",
+    "name_jp": "マヤノトップガン",
+    "category": "uma",
+    "color": "#F57D38",
+    "image": "images/mayanotopgun.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/653ba32321a240728d848fe16b8660a9/mayanotopgun_list.png"
+  },
+  {
+    "id": 25,
+    "slug": "manhattancafe",
+    "name_en": "Manhattan Cafe",
+    "name_jp": "マンハッタンカフェ",
+    "category": "uma",
+    "color": "#494541",
+    "image": "images/manhattancafe.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/ca853da2596e4a339222b293579fa889/manhattancafe_list.png"
+  },
+  {
+    "id": 26,
+    "slug": "mihonobourbon",
+    "name_en": "Mihono Bourbon",
+    "name_jp": "ミホノブルボン",
+    "category": "uma",
+    "color": "#EE60A1",
+    "image": "images/mihonobourbon.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/480c33efca85474aa5818d01a4b1e59c/mihonobourbon_list.png"
+  },
+  {
+    "id": 27,
+    "slug": "mejiroryan",
+    "name_en": "Mejiro Ryan",
+    "name_jp": "メジロライアン",
+    "category": "uma",
+    "color": "#14BAAE",
+    "image": "images/mejiroryan.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/48ba7bf78f364f819e141d8e54594a8e/mejiroryan_list.png"
+  },
+  {
+    "id": 28,
+    "slug": "hishiakebono",
+    "name_en": "Hishi Akebono",
+    "name_jp": "ヒシアケボノ",
+    "category": "uma",
+    "color": "#208BCD",
+    "image": "images/hishiakebono.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/c6ecf416eb414e24ac53bacd057fd2ad/hishiakebono_list.png"
+  },
+  {
+    "id": 29,
+    "slug": "yukinobijin",
+    "name_en": "Yukino Bijin",
+    "name_jp": "ユキノビジン",
+    "category": "uma",
+    "color": "#AF7E51",
+    "image": "images/yukinobijin.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/5dcb22f3b1ad45778c9ecb4d44d4213f/yukinobijin_list.png"
+  },
+  {
+    "id": 30,
+    "slug": "riceshower",
+    "name_en": "Rice Shower",
+    "name_jp": "ライスシャワー",
+    "category": "uma",
+    "color": "#384A86",
+    "image": "images/riceshower.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/8c203ea11f8a47d0b58296fdcdadd82b/riceshower_01_list.png"
+  },
+  {
+    "id": 31,
+    "slug": "inesfujin",
+    "name_en": "Ines Fujin",
+    "name_jp": "アイネスフウジン",
+    "category": "uma",
+    "color": "#F078C5",
+    "image": "images/inesfujin.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/aa6edad3e72244a08b0299e5435f35b8/inesfujin_list.png"
+  },
+  {
+    "id": 32,
+    "slug": "agnestachyon",
+    "name_en": "Agnes Tachyon",
+    "name_jp": "アグネスタキオン",
+    "category": "uma",
+    "color": "#35B2B6",
+    "image": "images/agnestachyon.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/0b6e09c2dbdb4cacb16c87571f3b257b/agnestachyon_list.png"
+  },
+  {
+    "id": 33,
+    "slug": "admirevega",
+    "name_en": "Admire Vega",
+    "name_jp": "アドマイヤベガ",
+    "category": "uma",
+    "color": "#3865A1",
+    "image": "images/admirevega.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/925d48819455476abc12ff3577a35ea9/admirevega_list.png"
+  },
+  {
+    "id": 34,
+    "slug": "inarione",
+    "name_en": "Inari One",
+    "name_jp": "イナリワン",
+    "category": "uma",
+    "color": "#AE419E",
+    "image": "images/inarione.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/3f76404022de4285b5af8e9bb1a5648f/inarione_list.png"
+  },
+  {
+    "id": 35,
+    "slug": "winningticket",
+    "name_en": "Winning Ticket",
+    "name_jp": "ウイニングチケット",
+    "category": "uma",
+    "color": "#DD3D5B",
+    "image": "images/winningticket.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/b3fb7ecb2a2d4529b788ce72cd10e4c6/winningticket_list.png"
+  },
+  {
+    "id": 36,
+    "slug": "airshakur",
+    "name_en": "Air Shakur",
+    "name_jp": "エアシャカール",
+    "category": "uma",
+    "color": "#2459B4",
+    "image": "images/airshakur.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/774a464f460547fe9a153b535d2b1984/airshakur_list.png"
+  },
+  {
+    "id": 37,
+    "slug": "eishinflash",
+    "name_en": "Eishin Flash",
+    "name_jp": "エイシンフラッシュ",
+    "category": "uma",
+    "color": "#3D3B3A",
+    "image": "images/eishinflash.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/2e87602a093f4e6ab13a3d5215f63038/eishinflash_list.png"
+  },
+  {
+    "id": 38,
+    "slug": "currenchan",
+    "name_en": "Curren Chan",
+    "name_jp": "カレンチャン",
+    "category": "uma",
+    "color": "#F86669",
+    "image": "images/currenchan.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/bbd93a3db4c54416bb3f7792689d106b/currenchan_list.png"
+  },
+  {
+    "id": 39,
+    "slug": "kawakamiprincess",
+    "name_en": "Kawakami Princess",
+    "name_jp": "カワカミプリンセス",
+    "category": "uma",
+    "color": "#E146A7",
+    "image": "images/kawakamiprincess.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/e4e38a1329b94e4391cb1be2455ad120/kawakamiprincess_list.png"
+  },
+  {
+    "id": 40,
+    "slug": "goldcity",
+    "name_en": "Gold City",
+    "name_jp": "ゴールドシチー",
+    "category": "uma",
+    "color": "#245099",
+    "image": "images/goldcity.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/096e7b2787ea40c9882f5a797d545d23/goldcity_list.png"
+  },
+  {
+    "id": 41,
+    "slug": "sakurabakushino",
+    "name_en": "Sakura Bakushin O",
+    "name_jp": "サクラバクシンオー",
+    "category": "uma",
+    "color": "#EE6FAB",
+    "image": "images/sakurabakushino.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/84bea2aa55464ce1814700575202f21a/sakurabakushino_list.png"
+  },
+  {
+    "id": 42,
+    "slug": "seekingthepearl",
+    "name_en": "Seeking the Pearl",
+    "name_jp": "シーキングザパール",
+    "category": "uma",
+    "color": "#B02D40",
+    "image": "images/seekingthepearl.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/7ae751ce6dfd4cf08b6dc81b6e0526ab/seekingthepearl_list.png"
+  },
+  {
+    "id": 43,
+    "slug": "shinkowindy",
+    "name_en": "Shinko Windy",
+    "name_jp": "シンコウウインディ",
+    "category": "uma",
+    "color": "#63666A",
+    "image": "images/shinkowindy.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/5ebd10d2a828409093747427da23ee19/shinkowindy_list.png"
+  },
+  {
+    "id": 44,
+    "slug": "sweeptosho",
+    "name_en": "Sweep Tosho",
+    "name_jp": "スイープトウショウ",
+    "category": "uma",
+    "color": "#926DDA",
+    "image": "images/sweeptosho.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/5d243633c0ef415bb48702d0c8531308/sweeptosho_list.png"
+  },
+  {
+    "id": 45,
+    "slug": "supercreek",
+    "name_en": "Super Creek",
+    "name_jp": "スーパークリーク",
+    "category": "uma",
+    "color": "#5693DA",
+    "image": "images/supercreek.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/3316aa27ddf54fa0bb4af195af3e67de/supercreek_list.png"
+  },
+  {
+    "id": 46,
+    "slug": "smartfalcon",
+    "name_en": "Smart Falcon",
+    "name_jp": "スマートファルコン",
+    "category": "uma",
+    "color": "#F8587B",
+    "image": "images/smartfalcon.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/7ceffc005e594501822ac3d58db4e1e1/smartfalcon_list.png"
+  },
+  {
+    "id": 47,
+    "slug": "zennorobroy",
+    "name_en": "Zenno Rob Roy",
+    "name_jp": "ゼンノロブロイ",
+    "category": "uma",
+    "color": "#5F9B26",
+    "image": "images/zennorobroy.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/61ce5a3a4d6b46018c8f68e3f503d9c6/zennorobroy_list.png"
+  },
+  {
+    "id": 48,
+    "slug": "tosenjordan",
+    "name_en": "Tosen Jordan",
+    "name_jp": "トーセンジョーダン",
+    "category": "uma",
+    "color": "#25B8AE",
+    "image": "images/tosenjordan.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/a4ed11cb612f4cc1ad6ea3c167c9ac85/tosenjordan_list.png"
+  },
+  {
+    "id": 49,
+    "slug": "nakayamafesta",
+    "name_en": "Nakayama Festa",
+    "name_jp": "ナカヤマフェスタ",
+    "category": "uma",
+    "color": "#C0453F",
+    "image": "images/nakayamafesta.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/5720bd42899f47499c079d5cc2458e50/nakayamafesta_list.png"
+  },
+  {
+    "id": 50,
+    "slug": "naritataishin",
+    "name_en": "Narita Taishin",
+    "name_jp": "ナリタタイシン",
+    "category": "uma",
+    "color": "#E575CE",
+    "image": "images/naritataishin.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/4371cd67a6e04442b7d9e03626aa39da/naritataishin_list.png"
+  },
+  {
+    "id": 51,
+    "slug": "nishinoflower",
+    "name_en": "Nishino Flower",
+    "name_jp": "ニシノフラワー",
+    "category": "uma",
+    "color": "#E26ECB",
+    "image": "images/nishinoflower.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/acff3a5cc385458383764856832a82c5/nishinoflower_list.png"
+  },
+  {
+    "id": 52,
+    "slug": "haruurara",
+    "name_en": "Haru Urara",
+    "name_jp": "ハルウララ",
+    "category": "uma",
+    "color": "#FA7395",
+    "image": "images/haruurara.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/ab34862a2ae0421ca01b42c161761f21/haruurara_list.png"
+  },
+  {
+    "id": 53,
+    "slug": "bamboomemory",
+    "name_en": "Bamboo Memory",
+    "name_jp": "バンブーメモリー",
+    "category": "uma",
+    "color": "#366965",
+    "image": "images/bamboomemory.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/6f5207cad44044c5a5b7ebffda2d80e7/bamboomemory_list.png"
+  },
+  {
+    "id": 54,
+    "slug": "bikopegasus",
+    "name_en": "Biko Pegasus",
+    "name_jp": "ビコーペガサス",
+    "category": "uma",
+    "color": "#E7396F",
+    "image": "images/bikopegasus.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/778cde50d585476dbb7aa01d9e2ba248/bikopegasus_list.png"
+  },
+  {
+    "id": 55,
+    "slug": "marveloussunday",
+    "name_en": "Marvelous Sunday",
+    "name_jp": "マーベラスサンデー",
+    "category": "uma",
+    "color": "#CA46B0",
+    "image": "images/marveloussunday.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/b3af712d8ccf4c4094de92e2aaffc3c4/marveloussunday_list.png"
+  },
+  {
+    "id": 56,
+    "slug": "matikanefukukitaru",
+    "name_en": "Matikanefukukitaru",
+    "name_jp": "マチカネフクキタル",
+    "category": "uma",
+    "color": "#3D89E9",
+    "image": "images/matikanefukukitaru.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/77837c8a379c452aa44e55a3b36a07c9/matikanefukukitaru_list.png"
+  },
+  {
+    "id": 57,
+    "slug": "mrcb",
+    "name_en": "Mr. C.B.",
+    "name_jp": "ミスターシービー",
+    "category": "uma",
+    "color": "#6FC346",
+    "image": "images/mrcb.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/3488578cbbb04e63988ad45d74795cde/mrcb_list.png"
+  },
+  {
+    "id": 58,
+    "slug": "meishodoto",
+    "name_en": "Meisho Doto",
+    "name_jp": "メイショウドトウ",
+    "category": "uma",
+    "color": "#46449B",
+    "image": "images/meishodoto.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/c45afaaf78dd481c9e918e50e6181134/meishodoto_list.png"
+  },
+  {
+    "id": 59,
+    "slug": "mejirodober",
+    "name_en": "Mejiro Dober",
+    "name_jp": "メジロドーベル",
+    "category": "uma",
+    "color": "#19B49E",
+    "image": "images/mejirodober.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/35293ceb39e54f9c8ebfb4407dc4eb48/mejirodober_list.png"
+  },
+  {
+    "id": 60,
+    "slug": "nicenature",
+    "name_en": "Nice Nature",
+    "name_jp": "ナイスネイチャ",
+    "category": "uma",
+    "color": "#28A959",
+    "image": "images/nicenature.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/edb0ea3aa20248799927528bc8726e08/nicenature_list.png"
+  },
+  {
+    "id": 61,
+    "slug": "kinghalo",
+    "name_en": "King Halo",
+    "name_jp": "キングヘイロー",
+    "category": "uma",
+    "color": "#0E9451",
+    "image": "images/kinghalo.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/eb01acda524d4f28b38d4d699fbaa47e/kinghalo_list.png"
+  },
+  {
+    "id": 62,
+    "slug": "matikanetannhauser",
+    "name_en": "Matikanetannhauser",
+    "name_jp": "マチカネタンホイザ",
+    "category": "uma",
+    "color": "#0f8dce",
+    "image": "images/matikanetannhauser.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/e7c65191769c49acab4fbbbf43887de1/matikanetannhauser_list.png"
+  },
+  {
+    "id": 63,
+    "slug": "ikunodictus",
+    "name_en": "Ikuno Dictus",
+    "name_jp": "イクノディクタス",
+    "category": "uma",
+    "color": "#49b73f",
+    "image": "images/ikunodictus.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/fc93e52618534b6c88eddf78570851aa/ikunodictus_list.png"
+  },
+  {
+    "id": 64,
+    "slug": "mejiropalmer",
+    "name_en": "Mejiro Palmer",
+    "name_jp": "メジロパーマー",
+    "category": "uma",
+    "color": "#27c79c",
+    "image": "images/mejiropalmer.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/54e5614a3eac44e6a0e8b4f4a2e3ed4d/mejiropalmer_list.png"
+  },
+  {
+    "id": 65,
+    "slug": "daitakuhelios",
+    "name_en": "Daitaku Helios",
+    "name_jp": "ダイタクヘリオス",
+    "category": "uma",
+    "color": "#5b64d5",
+    "image": "images/daitakuhelios.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/decc332003964b6db79967dda717fee6/daitakuhelios_list.png"
+  },
+  {
+    "id": 66,
+    "slug": "twinturbo",
+    "name_en": "Twin Turbo",
+    "name_jp": "ツインターボ",
+    "category": "uma",
+    "color": "#1985d2",
+    "image": "images/twinturbo.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/36e7e622a69b45f6b3d00bc0c9b48ab7/twinturbo_list.png"
+  },
+  {
+    "id": 67,
+    "slug": "satonodiamond",
+    "name_en": "Satono Diamond",
+    "name_jp": "サトノダイヤモンド",
+    "category": "uma",
+    "color": "#94bf01",
+    "image": "images/satonodiamond.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/75073e52e88c432f80a4e60333884f77/satonodiamond_list.png"
+  },
+  {
+    "id": 68,
+    "slug": "kitasanblack",
+    "name_en": "Kitasan Black",
+    "name_jp": "キタサンブラック",
+    "category": "uma",
+    "color": "#5a6065",
+    "image": "images/kitasanblack.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/94e780747b6c447fa48c99052cd7e2de/kitasanblack_list.png"
+  },
+  {
+    "id": 69,
+    "slug": "sakurachiyonoo",
+    "name_en": "Sakura Chiyono O",
+    "name_jp": "サクラチヨノオー",
+    "category": "uma",
+    "color": "#f9879d",
+    "image": "images/sakurachiyonoo.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/07f4b9a6a6984b74b0e9f4c06cff07f0/sakurachiyonoo_list.png"
+  },
+  {
+    "id": 70,
+    "slug": "siriussymboli",
+    "name_en": "Sirius Symboli",
+    "name_jp": "シリウスシンボリ",
+    "category": "uma",
+    "color": "#248379",
+    "image": "images/siriussymboli.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/b5f37d052b064e868b9695b06bc67f41/siriussymboli_list.png"
+  },
+  {
+    "id": 71,
+    "slug": "mejiroardan",
+    "name_en": "Mejiro Ardan",
+    "name_jp": "メジロアルダン",
+    "category": "uma",
+    "color": "#28baa5",
+    "image": "images/mejiroardan.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/5882fc435fab47278954eb9cd756f7a2/mejiroardan_list.png"
+  },
+  {
+    "id": 72,
+    "slug": "yaenomuteki",
+    "name_en": "Yaeno Muteki",
+    "name_jp": "ヤエノムテキ",
+    "category": "uma",
+    "color": "#da483a",
+    "image": "images/yaenomuteki.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/caa3ad8e1507499ab727e27bd353f59c/yaenomuteki_list.png"
+  },
+  {
+    "id": 73,
+    "slug": "tsurumarutsuyoshi",
+    "name_en": "Tsurumaru Tsuyoshi",
+    "name_jp": "ツルマルツヨシ",
+    "category": "uma",
+    "color": "#8F4DAC",
+    "image": "images/tsurumarutsuyoshi.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/549338befba74a278b03f1fb9e2d1e50/tsurumarutsuyoshi_list.png"
+  },
+  {
+    "id": 74,
+    "slug": "mejirobright",
+    "name_en": "Mejiro Bright",
+    "name_jp": "メジロブライト",
+    "category": "uma",
+    "color": "#45C5C1",
+    "image": "images/mejirobright.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/e97d5a3de746495593b33c225e2902e5/mejirobright_list.png"
+  },
+  {
+    "id": 75,
+    "slug": "daringtact",
+    "name_en": "Daring Tact",
+    "name_jp": "デアリングタクト",
+    "category": "uma",
+    "color": "#79c6db",
+    "image": "images/daringtact.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/9cbf0e8af9fc4d95a274b03319834a3e/daringtact_list_2.png"
+  },
+  {
+    "id": 76,
+    "slug": "sakuralaurel",
+    "name_en": "Sakura Laurel",
+    "name_jp": "サクラローレル",
+    "category": "uma",
+    "color": "#f0638a",
+    "image": "images/sakuralaurel.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/37b9b1f564234e3ea98bfeddbe452848/sakuralaurel_list.png"
+  },
+  {
+    "id": 77,
+    "slug": "naritatoproad",
+    "name_en": "Narita Top Road",
+    "name_jp": "ナリタトップロード",
+    "category": "uma",
+    "color": "#ea5bc0",
+    "image": "images/naritatoproad.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/3f60d51fd01149148b6f7b59997632b2/naritatoproad_list.png"
+  },
+  {
+    "id": 78,
+    "slug": "yamaninzephyr",
+    "name_en": "Yamanin Zephyr",
+    "name_jp": "ヤマニンゼファー",
+    "category": "uma",
+    "color": "#5192C1",
+    "image": "images/yamaninzephyr.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/e62bd533503649a785c537401292f159/yamaninzephyr_list.png"
+  },
+  {
+    "id": 79,
+    "slug": "furioso",
+    "name_en": "Furioso",
+    "name_jp": "フリオーソ",
+    "category": "uma",
+    "color": "#3f54bf",
+    "image": "images/furioso.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/3de9f0dba51749d1828aee4adaf39549/furioso_list.png"
+  },
+  {
+    "id": 80,
+    "slug": "transcend",
+    "name_en": "Transcend",
+    "name_jp": "トランセンド",
+    "category": "uma",
+    "color": "#13a9b0",
+    "image": "images/transcend.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/a3bed0aee9c04959a8086d09c8409b66/transcend_list.png"
+  },
+  {
+    "id": 81,
+    "slug": "espoircity",
+    "name_en": "Espoir City",
+    "name_jp": "エスポワールシチー",
+    "category": "uma",
+    "color": "#d93842",
+    "image": "images/espoircity.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/6c6e4c6387bc40fd9a3f63e2b414f62a/espoircity_list.png"
+  },
+  {
+    "id": 82,
+    "slug": "northflight",
+    "name_en": "North Flight",
+    "name_jp": "ノースフライト",
+    "category": "uma",
+    "color": "#ca3b61",
+    "image": "images/northflight.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/950f5f8d81df4d9b97a9cc2361b632be/northflight_list.png"
+  },
+  {
+    "id": 83,
+    "slug": "symbolikriss",
+    "name_en": "Symboli Kris S",
+    "name_jp": "シンボリクリスエス",
+    "category": "uma",
+    "color": "#12762f",
+    "image": "images/symbolikriss.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/cf2cb0069c144ff4ace3ba7f0c04b120/symbolikriss_list.png"
+  },
+  {
+    "id": 84,
+    "slug": "taninogimlet",
+    "name_en": "Tanino Gimlet",
+    "name_jp": "タニノギムレット",
+    "category": "uma",
+    "color": "#dab610",
+    "image": "images/taninogimlet.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/38ba273b41354eb2871ca785740107e5/taninogimlet_list.png"
+  },
+  {
+    "id": 85,
+    "slug": "daiichiruby",
+    "name_en": "Daiichi Ruby",
+    "name_jp": "ダイイチルビー",
+    "category": "uma",
+    "color": "#d2445d",
+    "image": "images/daiichiruby.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/4899801222cd459488b99fb94f716e65/daiichiruby_list.png"
+  },
+  {
+    "id": 86,
+    "slug": "mejiroramonu",
+    "name_en": "Mejiro Ramonu",
+    "name_jp": "メジロラモーヌ",
+    "category": "uma",
+    "color": "#4bb6af",
+    "image": "images/mejiroramonu.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/5d6e67035f7f4fcca64d9ed93b0ee241/mejiroramonu_list.png"
+  },
+  {
+    "id": 87,
+    "slug": "astonmachan",
+    "name_en": "Aston Machan",
+    "name_jp": "アストンマーチャン",
+    "category": "uma",
+    "color": "#CF4436",
+    "image": "images/astonmachan.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/0ca3971ec9fd4a998cef1328f23ba730/astonmachan_list.png"
+  },
+  {
+    "id": 88,
+    "slug": "satonocrown",
+    "name_en": "Satono Crown",
+    "name_jp": "サトノクラウン",
+    "category": "uma",
+    "color": "#21713A",
+    "image": "images/satonocrown.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/749b7b5716904f79bb16749de4bdaff6/satonocrown_list.png"
+  },
+  {
+    "id": 89,
+    "slug": "chevalgrand",
+    "name_en": "Cheval Grand",
+    "name_jp": "シュヴァルグラン",
+    "category": "uma",
+    "color": "#64C3C1",
+    "image": "images/chevalgrand.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/5cf740ed13c64829a4f7b73487d180ff/chevalgrand_list.png"
+  },
+  {
+    "id": 90,
+    "slug": "verxina",
+    "name_en": "Verxina",
+    "name_jp": "ヴィルシーナ",
+    "category": "uma",
+    "color": "#4747cc",
+    "image": "images/verxina.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/427bf6bd17d844b383e332e2db60e782/verxina_list.png"
+  },
+  {
+    "id": 91,
+    "slug": "vivlos",
+    "name_en": "Vivlos",
+    "name_jp": "ヴィブロス",
+    "category": "uma",
+    "color": "#404fb1",
+    "image": "images/vivlos.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/88bb264a970c4551b5fae492cd0518a1/vivlos_list.png"
+  },
+  {
+    "id": 92,
+    "slug": "dantsuflame",
+    "name_en": "Dantsu Flame",
+    "name_jp": "ダンツフレーム",
+    "category": "uma",
+    "color": "#e97d97",
+    "image": "images/dantsuflame.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/9367bd41586947ecb0d7d83e9a16e431/dantsuflame_list.png"
+  },
+  {
+    "id": 93,
+    "slug": "ksmiracle",
+    "name_en": "K.S.Miracle",
+    "name_jp": "ケイエスミラクル",
+    "category": "uma",
+    "color": "#85aae1",
+    "image": "images/ksmiracle.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/2b2b6f02405e43f1a65592a370401109/k-s-miracle_list.png"
+  },
+  {
+    "id": 94,
+    "slug": "junglepocket",
+    "name_en": "Jungle Pocket",
+    "name_jp": "ジャングルポケット",
+    "category": "uma",
+    "color": "#6ac43c",
+    "image": "images/junglepocket.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/e3f353e616aa490d988b909e8acb237b/junglepocket_list.png"
+  },
+  {
+    "id": 95,
+    "slug": "believe",
+    "name_en": "Believe",
+    "name_jp": "ビリーヴ",
+    "category": "uma",
+    "color": "#4baece",
+    "image": "images/believe.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/142f6ac947e7444bb5235b1e17c8c5b7/believe_list.png"
+  },
+  {
+    "id": 96,
+    "slug": "noreason",
+    "name_en": "No Reason",
+    "name_jp": "ノーリーズン",
+    "category": "uma",
+    "color": "#cb243e",
+    "image": "images/noreason.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/4d848a9d09eb4d4996321debd8c22c8c/noreason_list.png"
+  },
+  {
+    "id": 97,
+    "slug": "stillinlove",
+    "name_en": "Still in Love",
+    "name_jp": "スティルインラブ",
+    "category": "uma",
+    "color": "#d83a43",
+    "image": "images/stillinlove.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/ce53c7d0280049c3b9f474955ef9e51b/stillinlove_list.png"
+  },
+  {
+    "id": 98,
+    "slug": "copanorickey",
+    "name_en": "Copano Rickey",
+    "name_jp": "コパノリッキー",
+    "category": "uma",
+    "color": "#eeb42a",
+    "image": "images/copanorickey.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/2072a3ff37c343e9a0669eee3894b6fa/copanorickey_list.png"
+  },
+  {
+    "id": 99,
+    "slug": "hokkotarumae",
+    "name_en": "Hokko Tarumae",
+    "name_jp": "ホッコータルマエ",
+    "category": "uma",
+    "color": "#d94149",
+    "image": "images/hokkotarumae.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/f53900276c384a5884e81476465bcbe0/hokkotarumae_list.png"
+  },
+  {
+    "id": 100,
+    "slug": "wonderacute",
+    "name_en": "Wonder Acute",
+    "name_jp": "ワンダーアキュート",
+    "category": "uma",
+    "color": "#d85081",
+    "image": "images/wonderacute.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/0035d494d1d447a5b09f103ae0983b80/wonderacute_list.png"
+  },
+  {
+    "id": 101,
+    "slug": "samsonbig",
+    "name_en": "Samson Big",
+    "name_jp": "サムソンビッグ",
+    "category": "uma",
+    "color": "#3dc3c2",
+    "image": "images/samsonbig.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/37677b8ce6fd4196b32cea1f7efcd254/samsonbig_list.png"
+  },
+  {
+    "id": 102,
+    "slug": "soundsofearth",
+    "name_en": "Sounds of Earth",
+    "name_jp": "サウンズオブアース",
+    "category": "uma",
+    "color": "#ca4640",
+    "image": "images/soundsofearth.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/b17330e872874656976f15d93b424a76/soundsofearth_list.png"
+  },
+  {
+    "id": 103,
+    "slug": "royceandroyce",
+    "name_en": "Royce and Royce",
+    "name_jp": "ロイスアンドロイス",
+    "category": "uma",
+    "color": "#e69a22",
+    "image": "images/royceandroyce.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/81d3c0e88c144e8f9fa328f581ade44f/royceandroyce_list.png"
+  },
+  {
+    "id": 104,
+    "slug": "katsuragiace",
+    "name_en": "Katsuragi Ace",
+    "name_jp": "カツラギエース",
+    "category": "uma",
+    "color": "#7db0e0",
+    "image": "images/katsuragiace.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/28479a70523e471cb84ac10b4b1ff114/katsuragiace_list.png"
+  },
+  {
+    "id": 105,
+    "slug": "neouniverse",
+    "name_en": "Neo Universe",
+    "name_jp": "ネオユニヴァース",
+    "category": "uma",
+    "color": "#5abae6",
+    "image": "images/neouniverse.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/10f27dc4dfd0425d9dab1b46d6d50690/neouniverse_list.png"
+  },
+  {
+    "id": 106,
+    "slug": "hishimiracle",
+    "name_en": "Hishi Miracle",
+    "name_jp": "ヒシミラクル",
+    "category": "uma",
+    "color": "#4a71b2",
+    "image": "images/hishimiracle.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/13f8dd98962c42d6b33644fe5f59595d/hishimiracle_list.png"
+  },
+  {
+    "id": 107,
+    "slug": "tapdancecity",
+    "name_en": "Tap Dance City",
+    "name_jp": "タップダンスシチー",
+    "category": "uma",
+    "color": "#d44853",
+    "image": "images/tapdancecity.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/15937c6439c2407c845b8fe8bc9e1819/tapdancecity_list.png"
+  },
+  {
+    "id": 108,
+    "slug": "duramente",
+    "name_en": "Duramente",
+    "name_jp": "ドゥラメンテ",
+    "category": "uma",
+    "color": "#bf3344",
+    "image": "images/duramente.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/5ba2e3004acd4cdc8d9b0e7f0bf7cbe0/duramente_list.png"
+  },
+  {
+    "id": 109,
+    "slug": "rheinkraft",
+    "name_en": "Rhein Kraft",
+    "name_jp": "ラインクラフト",
+    "category": "uma",
+    "color": "#f15b75",
+    "image": "images/rheinkraft.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/cfd166d87db64907b4ffd176f50af1cd/rheinkraft_list.png"
+  },
+  {
+    "id": 110,
+    "slug": "cesario",
+    "name_en": "Cesario",
+    "name_jp": "シーザリオ",
+    "category": "uma",
+    "color": "#948eab",
+    "image": "images/cesario.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/93c31193c3314ba9b7bb92598bcba30b/cesario_list.png"
+  },
+  {
+    "id": 111,
+    "slug": "airmessiah",
+    "name_en": "Air Messiah",
+    "name_jp": "エアメサイア",
+    "category": "uma",
+    "color": "#2c2f9d",
+    "image": "images/airmessiah.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/9b3c204c205f4e76ae1c31f3db2e9646/airmessiah_list.png"
+  },
+  {
+    "id": 112,
+    "slug": "daringheart",
+    "name_en": "Daring Heart",
+    "name_jp": "デアリングハート",
+    "category": "uma",
+    "color": "#d0ba00",
+    "image": "images/daringheart.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/837386c50db047d9b723a27440b35e58/daringheart_list.png"
+  },
+  {
+    "id": 113,
+    "slug": "fusaichipandora",
+    "name_en": "Fusaichi Pandora",
+    "name_jp": "フサイチパンドラ",
+    "category": "uma",
+    "color": "#fd637f",
+    "image": "images/fusaichipandora.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/be5f9ba589d34592bc05a22e347c7a77/fusaichipandora_list.png"
+  },
+  {
+    "id": 114,
+    "slug": "buenavista",
+    "name_en": "Buena Vista",
+    "name_jp": "ブエナビスタ",
+    "category": "uma",
+    "color": "#c0af3b",
+    "image": "images/buenavista.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/7f12ea9d50b44a4a9e0b8956eb1fd223/buenavista_list.png"
+  },
+  {
+    "id": 115,
+    "slug": "orfevre",
+    "name_en": "Orfevre",
+    "name_jp": "オルフェーヴル",
+    "category": "uma",
+    "color": "#be4134",
+    "image": "images/orfevre.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/1a5c8514113b4c1dba972e9508e0ed78/orfevre_list.png"
+  },
+  {
+    "id": 116,
+    "slug": "gentildonna",
+    "name_en": "Gentildonna",
+    "name_jp": "ジェンティルドンナ",
+    "category": "uma",
+    "color": "#cf2f2b",
+    "image": "images/gentildonna.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/c3c0c457704a447c9061d1631588f2c8/gentildonna_list.png"
+  },
+  {
+    "id": 117,
+    "slug": "winvariation",
+    "name_en": "Win Variation",
+    "name_jp": "ウインバリアシオン",
+    "category": "uma",
+    "color": "#c1213c",
+    "image": "images/winvariation.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/c15373cabd854df7ae8c16be37c28db8/winvariation_list.png"
+  },
+  {
+    "id": 118,
+    "slug": "admiregroove",
+    "name_en": "Admire Groove",
+    "name_jp": "アドマイヤグルーヴ",
+    "category": "uma",
+    "color": "#344d99",
+    "image": "images/admiregroove.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/1b6233c9460c45be81a034dd53ffe7b7/admiregroove_list.png"
+  },
+  {
+    "id": 119,
+    "slug": "dreamjourney",
+    "name_en": "Dream Journey",
+    "name_jp": "ドリームジャーニー",
+    "category": "uma",
+    "color": "#332d1f",
+    "image": "images/dreamjourney.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/7ec1f7674eb34eafb8bc4cec6e8ab343/dreamjourney_list.png"
+  },
+  {
+    "id": 120,
+    "slug": "calstonelighto",
+    "name_en": "Calstone Light O",
+    "name_jp": "カルストンライトオ",
+    "category": "uma",
+    "color": "#131b4c",
+    "image": "images/calstonelighto.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/f1702e191d4045e3854dca9f074228fe/calstonelighto_list.png"
+  },
+  {
+    "id": 121,
+    "slug": "durandal",
+    "name_en": "Durandal",
+    "name_jp": "デュランダル",
+    "category": "uma",
+    "color": "#efa605",
+    "image": "images/durandal.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/54adb7d4190642e4a9d29b6e8da8ddf8/durandal_list.png"
+  },
+  {
+    "id": 122,
+    "slug": "genuine",
+    "name_en": "Genuine",
+    "name_jp": "ジェニュイン",
+    "category": "uma",
+    "color": "#d3b927",
+    "image": "images/genuine.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/b76b541a06084b4a823081a9204c75b0/genuine_list.png"
+  },
+  {
+    "id": 123,
+    "slug": "bubblegumfellow",
+    "name_en": "Bubble Gum Fellow",
+    "name_jp": "バブルガムフェロー",
+    "category": "uma",
+    "color": "#e5bd00",
+    "image": "images/bubblegumfellow.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/eb96eb8435944a0abb98c3893afa588a/bubblegumfellow_list.png"
+  },
+  {
+    "id": 124,
+    "slug": "sakurachitoseo",
+    "name_en": "Sakura Chitose O",
+    "name_jp": "サクラチトセオー",
+    "category": "uma",
+    "color": "#FA83CB",
+    "image": "images/sakurachitoseo.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/3aa6c2887e5c48348a9ecf646d123dc1/sakurachitoseo_list.png"
+  },
+  {
+    "id": 125,
+    "slug": "fenomeno",
+    "name_en": "Fenomeno",
+    "name_jp": "フェノーメノ",
+    "category": "uma",
+    "color": "#574a74",
+    "image": "images/fenomeno.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/d2d0f8f360cb46109a7acae5ce630be9/fenomeno_list.png"
+  },
+  {
+    "id": 126,
+    "slug": "blastonepiece",
+    "name_en": "Blast Onepiece",
+    "name_jp": "ブラストワンピース",
+    "category": "uma",
+    "color": "#009CBD",
+    "image": "images/blastonepiece.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/15d555352d574b44b0106fc70fb0892f/blastonepiece_list.png"
+  },
+  {
+    "id": 127,
+    "slug": "almondeye",
+    "name_en": "Almond Eye",
+    "name_jp": "アーモンドアイ",
+    "category": "uma",
+    "color": "#69a9e9",
+    "image": "images/almondeye.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/6009fc8852bf4db3930510850c2bc8e9/almondeye_list.png"
+  },
+  {
+    "id": 128,
+    "slug": "luckylilac",
+    "name_en": "Lucky Lilac",
+    "name_jp": "ラッキーライラック",
+    "category": "uma",
+    "color": "#454152",
+    "image": "images/luckylilac.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/781af99cf1d84e63bc2026538f0a55a5/luckylilac_list.png"
+  },
+  {
+    "id": 129,
+    "slug": "granalegria",
+    "name_en": "Gran Alegria",
+    "name_jp": "グランアレグリア",
+    "category": "uma",
+    "color": "#53565a",
+    "image": "images/granalegria.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/186354558c8c4dec98c37d6e67cc2464/granalegria_list.png"
+  },
+  {
+    "id": 130,
+    "slug": "lovesonlyyou",
+    "name_en": "Loves Only You",
+    "name_jp": "ラヴズオンリーユー",
+    "category": "uma",
+    "color": "#424840",
+    "image": "images/lovesonlyyou.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/abbfc5bb547f4d03a886e10f1072d603/lovesonlyyou_list.png"
+  },
+  {
+    "id": 131,
+    "slug": "chronogenesis",
+    "name_en": "Chrono Genesis",
+    "name_jp": "クロノジェネシス",
+    "category": "uma",
+    "color": "#464647",
+    "image": "images/chronogenesis.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/e515893fdf2249a8abe6602ee5ebc95e/chronogenesis_list.png"
+  },
+  {
+    "id": 132,
+    "slug": "currenbouquetdor",
+    "name_en": "Curren Bouquetd'or",
+    "name_jp": "カレンブーケドール",
+    "category": "uma",
+    "color": "#8e8180",
+    "image": "images/currenbouquetdor.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/65ff1570a4ef40af9d00918eb94a9e6f/currenbouquetdor_list.png"
+  },
+  {
+    "id": 133,
+    "slug": "staygold",
+    "name_en": "Stay Gold",
+    "name_jp": "ステイゴールド",
+    "category": "uma",
+    "color": "#bfb33e",
+    "image": "images/staygold.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/1ae64df3a200487b88facc86e7ffd103/staygold_list.png"
+  },
+  {
+    "id": 134,
+    "slug": "reddesire",
+    "name_en": "Red Desire",
+    "name_jp": "レッドディザイア",
+    "category": "uma",
+    "color": "#cb3a43",
+    "image": "images/reddesire.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/d20a53c8c7be42d79bcb938abcff5e19/reddesire_list.png"
+  },
+  {
+    "id": 135,
+    "slug": "kiseki",
+    "name_en": "Kiseki",
+    "name_jp": "キセキ",
+    "category": "uma",
+    "color": "#2c9c46",
+    "image": "images/kiseki.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/7134544fbb3d4cc38936414e1dadd3f7/kiseki_list.png"
+  },
+  {
+    "id": 136,
+    "slug": "foreveryoung",
+    "name_en": "Forever Young",
+    "name_jp": "フォーエバーヤング",
+    "category": "uma",
+    "color": "#822b4a",
+    "image": "images/foreveryoung.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/09175cc749d347109289ca5a8b4da2c0/foreveryoung_list.png"
+  },
+  {
+    "id": 137,
+    "slug": "marchelorraine",
+    "name_en": "Marche Lorraine",
+    "name_jp": "マルシュロレーヌ",
+    "category": "uma",
+    "color": "#8b1538",
+    "image": "images/marchelorraine.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/a34bb4e4616249eab5e8a21bd7c4eca4/marchelorraine_list.png"
+  },
+  {
+    "id": 138,
+    "slug": "epiphaneia",
+    "name_en": "Epiphaneia",
+    "name_jp": "エピファネイア",
+    "category": "uma",
+    "color": "#17af87",
+    "image": "images/epiphaneia.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/5a9f49152d614451a8ee0957fe3a28d1/epiphaneia_list.png"
+  },
+  {
+    "id": 139,
+    "slug": "logotype",
+    "name_en": "Logotype",
+    "name_jp": "ロゴタイプ",
+    "category": "uma",
+    "color": "#7e2d40",
+    "image": "images/logotype.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/dceb3d9190484c2ab6fcd465c8751eba/logotype_list.png"
+  },
+  {
+    "id": 140,
+    "slug": "victoirepisa",
+    "name_en": "Victoire Pisa",
+    "name_jp": "ヴィクトワールピサ",
+    "category": "uma",
+    "color": "#4146b8",
+    "image": "images/victoirepisa.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/74830f0fde314abca6ff711118afbdfb/victoirepisa_list.png"
+  },
+  {
+    "id": 141,
+    "slug": "rosekingdom",
+    "name_en": "Rose Kingdom",
+    "name_jp": "ローズキングダム",
+    "category": "uma",
+    "color": "#cb363d",
+    "image": "images/rosekingdom.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/d8395693e7d44d58b051d29b85acf0ea/rosekingdom_list.png"
+  },
+  {
+    "id": 142,
+    "slug": "rulership",
+    "name_en": "Rulership",
+    "name_jp": "ルーラーシップ",
+    "category": "uma",
+    "color": "#beab08",
+    "image": "images/rulership.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/84a7d75432a94a11ba16dc515263342e/rulership_list.png"
+  },
+  {
+    "id": 143,
+    "slug": "efforia",
+    "name_en": "Efforia",
+    "name_jp": "エフフォーリア",
+    "category": "uma",
+    "color": "#3cbba7",
+    "image": "images/efforia.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/4a93119876e74ecd8b12660a632fecc7/efforia_list.png"
+  },
+  {
+    "id": 144,
+    "slug": "titleholder",
+    "name_en": "Titleholder",
+    "name_jp": "タイトルホルダー",
+    "category": "uma",
+    "color": "#4ea547",
+    "image": "images/titleholder.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/136a29af837e451e963bbe91880dbfb1/titleholder_list.png"
+  },
+  {
+    "id": 145,
+    "slug": "phalaenopsis",
+    "name_en": "Phalaenopsis",
+    "name_jp": "ファレノプシス",
+    "category": "uma",
+    "color": "#5ba4d9",
+    "image": "images/phalaenopsis.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/a71dc787083a49c7b0010755cdb31dc3/phalaenopsis_list.png"
+  },
+  {
+    "id": 146,
+    "slug": "happymeek",
+    "name_en": "Happy Meek",
+    "name_jp": "ハッピーミーク",
+    "category": "staff",
+    "color": "#729cdb",
+    "image": "images/happymeek.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/2a04bc169cf4436a93ab79f19c19b966/happymik_list.png"
+  },
+  {
+    "id": 147,
+    "slug": "bitterglasse",
+    "name_en": "Bitter Glasse",
+    "name_jp": "ビターグラッセ",
+    "category": "staff",
+    "color": "#ed4f44",
+    "image": "images/bitterglasse.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/0f00e4c009f44283a6bbef7680c35082/bitterglasse_list.png"
+  },
+  {
+    "id": 148,
+    "slug": "littlecocon",
+    "name_en": "Little Cocon",
+    "name_jp": "リトルココン",
+    "category": "staff",
+    "color": "#6973ab",
+    "image": "images/littlecocon.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/55922c4a12ed4fc2a7cb84b158c7ce1d/littlecocon_list.png"
+  },
+  {
+    "id": 149,
+    "slug": "venuspaques",
+    "name_en": "Venus Paques",
+    "name_jp": "ヴェニュスパーク",
+    "category": "staff",
+    "color": "#215a95",
+    "image": "images/venuspaques.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/b2cd6bcb61014b5e9f51c1d9c07ffb09/venuspark_list.png"
+  },
+  {
+    "id": 150,
+    "slug": "rigantona",
+    "name_en": "Rigantona",
+    "name_jp": "リガントーナ",
+    "category": "staff",
+    "color": "#da6642",
+    "image": "images/rigantona.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/829453808b664a469beec3d0def366c9/rigantona_list.png"
+  },
+  {
+    "id": 151,
+    "slug": "sononelfie",
+    "name_en": "Sonon Elfie",
+    "name_jp": "ソノンエルフィー",
+    "category": "staff",
+    "color": "#f07736",
+    "image": "images/sononelfie.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/f68afd4bf36643139bb7942c80b5be7f/sononelfie_list.png"
+  },
+  {
+    "id": 152,
+    "slug": "hayakawatazuna",
+    "name_en": "Hayakawa Tazuna",
+    "name_jp": "駿川たづな",
+    "category": "staff",
+    "color": "#44A705",
+    "image": "images/hayakawatazuna.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/10329e7971be44b99741c89492ef9d06/hayakawatazuna_list.png"
+  },
+  {
+    "id": 153,
+    "slug": "akikawayayoi",
+    "name_en": "Akikawa Yayoi",
+    "name_jp": "秋川やよい",
+    "category": "staff",
+    "color": "#FC8056",
+    "image": "images/akikawayayoi.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/a3d9111af2c04af1881413f252d0a25d/akikawayayoi_list.png"
+  },
+  {
+    "id": 154,
+    "slug": "otonashietsuko",
+    "name_en": "Otonashi Etsuko",
+    "name_jp": "乙名史悦子",
+    "category": "staff",
+    "color": "#4575bf",
+    "image": "images/otonashietsuko.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/4e17a943ad134d08ae12a4d67ee85114/otonashietsuko_list.png"
+  },
+  {
+    "id": 155,
+    "slug": "kiryuinaoi",
+    "name_en": "Kiryuin Aoi",
+    "name_jp": "桐生院葵",
+    "category": "staff",
+    "color": "#464ed2",
+    "image": "images/kiryuinaoi.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/e23de710d8e14542be1e9b9a1428c8c4/kiryuinaoi_list.png"
+  },
+  {
+    "id": 156,
+    "slug": "anshinzawasasami",
+    "name_en": "Anshinzawa Sasami",
+    "name_jp": "安心沢刺々美",
+    "category": "staff",
+    "color": "#df4945",
+    "image": "images/anshinzawasasami.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/71783b15668345698f7cc6755b05d0fb/anshinzawasasami_list.png"
+  },
+  {
+    "id": 157,
+    "slug": "kashimotoriko",
+    "name_en": "Kashimoto Riko",
+    "name_jp": "樫本理子",
+    "category": "staff",
+    "color": "#54498c",
+    "image": "images/kashimotoriko.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/a7eb3c955f444b25ab17259f9de1a58a/kashimotoriko_list.png"
+  },
+  {
+    "id": 158,
+    "slug": "lighthello",
+    "name_en": "Light Hello",
+    "name_jp": "ライトハロー",
+    "category": "staff",
+    "color": "#f482a2",
+    "image": "images/lighthello.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/5fb25172f3c8483883662c1009695306/lighthello_list.png"
+  },
+  {
+    "id": 159,
+    "slug": "darleyarabian",
+    "name_en": "Darley Arabian",
+    "name_jp": "ダーレーアラビアン",
+    "category": "staff",
+    "color": "#d84556",
+    "image": "images/darleyarabian.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/3554c8e804a342c0840890b055643d60/darleyarabian_list.png"
+  },
+  {
+    "id": 160,
+    "slug": "godolphinbarb",
+    "name_en": "Godolphin Barb",
+    "name_jp": "ゴドルフィンバルブ",
+    "category": "staff",
+    "color": "#3381d8",
+    "image": "images/godolphinbarb.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/a5ef307acc8f4ee3b88e7d7cffefe9d4/godolphinbarb_list.png"
+  },
+  {
+    "id": 161,
+    "slug": "byerleyturk",
+    "name_en": "Byerley Turk",
+    "name_jp": "バイアリーターク",
+    "category": "staff",
+    "color": "#bba61d",
+    "image": "images/byerleyturk.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/a49c57bbd91c466c8335e3d879a1ea7c/byerleyturk_list.png"
+  },
+  {
+    "id": 162,
+    "slug": "satakemei",
+    "name_en": "Satake Mei",
+    "name_jp": "佐岳メイ",
+    "category": "staff",
+    "color": "#e4ac34",
+    "image": "images/satakemei.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/55547e52d732465d8ee85d0f5f4b53be/satakemei_list.png"
+  },
+  {
+    "id": 163,
+    "slug": "tsurugiryoka",
+    "name_en": "Tsurugi Ryoka",
+    "name_jp": "都留岐涼花",
+    "category": "staff",
+    "color": "#b26fbd",
+    "image": "images/tsurugiryoka.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/2f76d29b4f0a4ae5b047f3ed9f1016cf/tsurugiryoka_list.png"
+  },
+  {
+    "id": 164,
+    "slug": "sugarlights",
+    "name_en": "Sugar Lights",
+    "name_jp": "シュガーライツ",
+    "category": "staff",
+    "color": "#5cc0ad",
+    "image": "images/sugarlights.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/e1631cf19fec4940ace4e4adb7fbad07/sugarlights_list.png"
+  },
+  {
+    "id": 165,
+    "slug": "saintlite",
+    "name_en": "Saint Lite",
+    "name_jp": "セントライト",
+    "category": "staff",
+    "color": "#5bb1de",
+    "image": "images/saintlite.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/6fe1f0532dcb4d7b9afb1f25c21744ee/saintlite_list.png"
+  },
+  {
+    "id": 166,
+    "slug": "speedsymboli",
+    "name_en": "Speed Symboli",
+    "name_jp": "スピードシンボリ",
+    "category": "staff",
+    "color": "#10a546",
+    "image": "images/speedsymboli.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/d64cf4d8702648c1bc2aa5c5a6d7afbd/speedsymboli_list.png"
+  },
+  {
+    "id": 167,
+    "slug": "haiseiko",
+    "name_en": "Haiseiko",
+    "name_jp": "ハイセイコー",
+    "category": "staff",
+    "color": "#c23c94",
+    "image": "images/haiseiko.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/9649d25c93c2409a85cd9af0444fa051/haiseiko_list.png"
+  },
+  {
+    "id": 168,
+    "slug": "tuckerbryne",
+    "name_en": "Tucker Bryne",
+    "name_jp": "タッカーブライン",
+    "category": "staff",
+    "color": "#c4b076",
+    "image": "images/tuckerbryne.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/08cdb7dce3a2419e876a1405306d4a0a/tuckerbryne_list.png"
+  },
+  {
+    "id": 169,
+    "slug": "hoshinakiyoko",
+    "name_en": "Hoshina Kiyoko",
+    "name_jp": "保科健子",
+    "category": "staff",
+    "color": "#316757",
+    "image": "images/hoshinakiyoko.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/d594bf4806a44533a66bef1e96fcf5a4/hoshinakiyoko_list.png"
+  },
+  {
+    "id": 170,
+    "slug": "yunohanabloom",
+    "name_en": "Yunohana Bloom",
+    "name_jp": "ユノハナブルーム",
+    "category": "staff",
+    "color": "#ed718c",
+    "image": "images/yunohanabloom.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/3df80272be754893a01b18c65f022cd8/yunohanabloom_list.png"
+  },
+  {
+    "id": 171,
+    "slug": "casinodrive",
+    "name_en": "Casino Drive",
+    "name_jp": "カジノドライヴ",
+    "category": "staff",
+    "color": "#5198b0",
+    "image": "images/casinodrive.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/fff5260b6f454d4eaa8204afdd261332/casinodrive_list.png"
+  },
+  {
+    "id": 172,
+    "slug": "akasakamisato",
+    "name_en": "Akasaka Misato",
+    "name_jp": "赤坂美聡",
+    "category": "staff",
+    "color": "#2a8e6e",
+    "image": "images/akasakamisato.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/69658f1d37444b62a8e451e9b8039fdc/akasakamisato_list.png"
+  },
+  {
+    "id": 173,
+    "slug": "hosoejunko",
+    "name_en": "Hosoe Junko",
+    "name_jp": "細江純子",
+    "category": "staff",
+    "color": "#485cc7",
+    "image": "images/hosoejunko.png",
+    "source_url": "https://images.microcms-assets.io/assets/973fc097984b400db8729642ddff5938/9a5022f5c7484b20a86870eccce61c45/hosoejunko_list.png"
+  }
+]

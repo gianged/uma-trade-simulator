@@ -1,0 +1,15 @@
+// Debug settings - managed by s-launch.
+{
+  // Rust expressions touching Drop / allocation routinely exceed the 5 s default
+  "lldb.evaluationTimeout": 10,
+  "lldb.suppressMissingSourceFiles": true,
+  // "native" breaks Rust pretty-printers (Vec, String, HashMap)
+  "lldb.launch.expressions": "simple",
+  // all service output in Debug Console, filter per session via dropdown
+  "lldb.launch.terminal": "console",
+  "lldb.launch.sourceLanguages": ["rust"],
+  "lldb.launch.env": {
+    "RUST_BACKTRACE": "full"
+  },
+  "debug.internalConsoleOptions": "openOnSessionStart"
+}

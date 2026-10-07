@@ -1,0 +1,33 @@
+# Build artifacts
+/target/
+**/*.rs.bk
+
+# Profiling output (run records in docs/runs/ stay committed)
+perf.data
+perf.data.old
+*.profraw
+flamegraph*.svg
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*.swo
+
+# Environment
+.env
+.env.local
+
+# Claude Code - share project config, ignore personal overrides
+.claude/settings.local.json
+CLAUDE.local.md
+
+# VS Code - share project config, ignore personal state
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+!.vscode/*.code-snippets
+*.code-workspace
